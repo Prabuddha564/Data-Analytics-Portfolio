@@ -1,3 +1,4 @@
-Day 1:
-Started Google Data Analytics Course.
-Created GitHub portfolio.
+# Data Analyst Journey Restart
+
+Today I restarted my data analytics portfolio.
+Setting up structured learning and real projects.
