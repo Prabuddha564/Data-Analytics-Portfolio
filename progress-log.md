@@ -13,3 +13,5 @@ Day 1:
 
 Day 2:
 - Prepared Excel practice structure and organized learning tracker
+- Started Excel Skill for Business
+- completed module 1 of google course.
