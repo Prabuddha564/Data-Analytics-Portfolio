@@ -16,3 +16,5 @@ Day 2:
 - Started Excel Skill for Business (half module 1 finished), Completed Module 1 of Google course.
 
 Day 3:
+- Google module 2 half done, Excel Module 1 completed.
+- Worked on kaggle data set.
