@@ -18,3 +18,6 @@ Day 2:
 Day 3:
 - Google module 2 half done, Excel Module 1 completed.
 - Worked on kaggle data set.
+
+Day 4:
+- Google Course 1 Module 2 completed, Excel Module 2 started.
