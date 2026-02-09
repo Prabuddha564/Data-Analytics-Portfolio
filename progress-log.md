@@ -25,3 +25,6 @@ Day 4:
 Day 5:
 - Google Course 1 Module 3 completed, Excel Module 2 half completed.
 - Excel Project "India GDP Economic Analysis" started.
+
+Day 6
+- Google Course 1 Complete. Linkedln Profile Update.
