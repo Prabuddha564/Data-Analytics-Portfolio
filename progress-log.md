@@ -28,3 +28,6 @@ Day 5:
 
 Day 6
 - Google Course 1 Complete. Linkedln Profile Update.
+
+Day 7
+- Excel Course 1 Module 2 Completed.
