@@ -31,3 +31,7 @@ Day 6
 
 Day 7
 - Excel Course 1 Module 2 Completed.
+- Excel Project "India GDP Economic Analysis" completed.
+
+Day 8
+- Google Course 2 Module 1 start, Excel for business Course 1 Module 3 Start.
