@@ -35,3 +35,6 @@ Day 7
 
 Day 8
 - Google Course 2 Module 1 start, Excel for business Course 1 Module 3 Start.
+
+Day 9
+- Excel Course 1 Module 3 Completed
