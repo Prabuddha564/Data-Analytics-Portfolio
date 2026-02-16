@@ -38,3 +38,6 @@ Day 8
 
 Day 9
 - Excel Course 1 Module 3 Completed
+
+Day 10
+- Excel Course 1 Module 4 Completed
