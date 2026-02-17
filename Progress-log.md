@@ -41,3 +41,6 @@ Day 9
 
 Day 10
 - Excel Course 1 Module 4 Completed
+
+Day 11
+- Excel Course 1 Completed, Google Course 2 Module 3 Completed.
